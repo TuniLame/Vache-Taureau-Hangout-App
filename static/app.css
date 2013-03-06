@@ -1,0 +1,9 @@
+.inputForm input[type=text]{
+	    border-radius:2em;
+		padding : 5px;
+		height:40px;
+		width:40px;
+		text-align:center;
+		valign:"middle";
+	  }
+	  
